@@ -1,1 +1,0 @@
-## This is a python script that extract import & export table in pe file
